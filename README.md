@@ -1,5 +1,5 @@
-# -Ubuntu-Installation-on-Oracle-VirtualBox
-Step-by-Step Guide for Beginners, SOC Engineers, and Cybersecurity Labs
+<img width="1536" height="1024" alt="ChatGPT Image Jun 26, 2026, 07_36_01 PM" src="https://github.com/user-attachments/assets/70660600-25c5-4536-9dfa-c8e6ac30d565" />
+
 # 🐧 Ubuntu 24.04 LTS Installation on Oracle VirtualBox (Windows 11)
 
 ### Complete Step-by-Step Guide with Commands for Cybersecurity, SOC, and IT Audit Labs
@@ -392,29 +392,10 @@ Fresh-Ubuntu-24.04
 
 This allows you to quickly restore the VM if something goes wrong.
 
----
-
-# Next Steps
-
-Your Ubuntu VM is now ready for installing:
-
-* Docker
-* Wazuh SIEM
-* Elastic Stack
-* Suricata IDS
-* Zeek
-* Splunk Enterprise
-* Atomic Red Team
-* Velociraptor
-* TheHive
-* Cortex
-* MISP
-
-These tools can be used to build a complete SOC and threat detection lab.
 
 ---
 
 # Author
 
 **Bappy Sharma**
-* IT Audit & Cybersecurity Enthusiast
+IT Audit & Cybersecurity Enthusiast
