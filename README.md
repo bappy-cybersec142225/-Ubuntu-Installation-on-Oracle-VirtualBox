@@ -121,8 +121,13 @@ Bidirectional
 Storage → Empty Optical Drive → Choose the Ubuntu ISO.
 
 Click **Start**.
+<img width="1588" height="978" alt="ubuntu install" src="https://github.com/user-attachments/assets/e0c038dd-05b1-4a80-95e6-e9cab177293f" />
+<img width="1673" height="827" alt="ubuntu install2" src="https://github.com/user-attachments/assets/7223052c-db4c-4d1b-b702-b3d34f1cf8aa" />
+<img width="731" height="573" alt="ubuntu3" src="https://github.com/user-attachments/assets/0fa74a66-e4cd-4787-bbfd-f923d60d24c5" />
+<img width="1554" height="978" alt="ubuntu4" src="https://github.com/user-attachments/assets/a7d344ad-70e4-4058-a48b-8d86c05e88e9" />
 
 ---
+
 
 # Step 7 – Install Ubuntu
 
